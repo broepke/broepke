@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a Data Science and Analytics leader for a large cloud platform. I spent most of my career in Product Management and product leadership, building multiple products from zero to long-term sustainable businesses.
+I am a Data Science and Analytics leader for a large cloud platform. I spent most of my career in **Product Management** and product leadership, building multiple products from zero to long-term sustainable businesses.
 
-Since around 2018, I've been studying Machine Learning and Analytics, even as far as graduating with a BSc in Data Analytics in 2021. I took the opportunity to transform my career and move full-time into this new field.
+Since around 2018, I've been studying **Machine Learning** and **Analytics**, even as far as graduating with a BSc in Data Analytics in 2021. I took the opportunity to transform my career and move full-time into this new field.
 
-I am a certified practitioner of Human-Centered Design and love utilizing Design Thinking methods and techniques to bring out the best in people and build the most innovative, inclusive solutions. I leverage my long history in product management to deliver everything I do, from ML pipelines to Dashboards as products. I focus on delivering high value, great user experience, and the right outcomes.
+I am a certified practitioner of **Human-Centered Design** and love utilizing **Design Thinking** methods and techniques to bring out the best in people and build the most innovative, inclusive solutions. I leverage my long history in product management to deliver everything I do, from ML pipelines to Dashboards as products. I focus on delivering high value, great user experience, and the right outcomes.
 
 In my spare time I like to write about **Data Science**, **Machine Learning**, **Natural Language Processing**, **SQL**, and more.  I contribute my articles on Towards Data Science and other publications.  You can read them here: [@broepke on Medium](https://medium.com/@broepke)
 
