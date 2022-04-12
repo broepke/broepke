@@ -8,6 +8,8 @@ I am a certified practitioner of Human-Centered Design and love utilizing Design
 
 I try to contribute small articles in this blog that might help new and aspiring Data Science professionals. I hope you enjoy it. Leave comments and I'll respond as soon as I can.
 
+[![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepke)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
