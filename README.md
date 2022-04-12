@@ -12,7 +12,7 @@ I try to contribute small articles in this blog that might help new and aspiring
 
 [![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepke)](https://github.com/anuraghazra/github-readme-stats)
 
-![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepkera&show_icons=true)
+![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepker&show_icons=true)
 
 <!--
 **broepke/broepke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
