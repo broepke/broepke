@@ -6,7 +6,7 @@ Since around 2018, I've been studying Machine Learning and Analytics, even as fa
 
 I am a certified practitioner of Human-Centered Design and love utilizing Design Thinking methods and techniques to bring out the best in people and build the most innovative, inclusive solutions. I leverage my long history in product management to deliver everything I do, from ML pipelines to Dashboards as products. I focus on delivering high value, great user experience, and the right outcomes.
 
-I try to contribute small articles in this blog that might help new and aspiring Data Science professionals. I hope you enjoy it. Leave comments and I'll respond as soon as I can.
+In my spare time I like to write about Data Science, Machine Learning, Natural Language Processing and more.  I contribute my articles on Towards Data Science and other publications.  You can read them here: [@broepke on Medium](https://medium.com/@broepke)
 
 [![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepke&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
