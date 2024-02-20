@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Science and Analytics leader for a large cloud platform. I spent most of my career in **Product Management** and product leadership, building multiple products from zero to long-term sustainable businesses.
+I am a Data Science, Engineering, and Analytics leader. I spent most of my career in **Product Management** and product leadership, building multiple products from zero to long-term sustainable businesses.
 
 Since around 2018, I've been studying **Machine Learning** and **Analytics**, even as far as graduating with a BSc in Data Analytics in 2021. I took the opportunity to transform my career and move full-time into this new field.
 
