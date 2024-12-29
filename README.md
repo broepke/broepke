@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I am a Data Science, Engineering, and Analytics leader. I spent most of my career in **Product Management** and product leadership, building multiple products from zero to long-term sustainable businesses.
+I am a Data Science, Engineering, and Analytics practitioner. I spent most of my career in **Product Management** and product leadership, building multiple products from zero to long-term sustainable businesses.
 
 Since around 2018, I've been studying **Machine Learning** and **Analytics**, even as far as graduating with a BSc in Data Analytics in 2021. I took the opportunity to transform my career and move full-time into this new field.
 
 I am a certified practitioner of **Human-Centered Design** and love utilizing **Design Thinking** methods and techniques to bring out the best in people and build the most innovative, inclusive solutions. I leverage my long history in product management to deliver everything I do, from ML pipelines to Dashboards as products. I focus on delivering high value, great user experience, and the right outcomes.
 
-In my spare time I like to write about **Data Science**, **Machine Learning**, **Natural Language Processing**, **SQL**, and more.  I contribute my articles on Towards Data Science and other publications.  You can read them here: [[@broepke on Medium](http://www.dataknowsall.com)]([https://medium.com/@broepke](http://www.dataknowsall.com))
-
-[![Brians's GitHub stats](https://github-readme-stats.vercel.app/api?username=broepke&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+In my spare time I like to write about **Data Science**, **Machine Learning**, **Natural Language Processing**, **SQL**, and more.  I contribute my articles on Towards Data Science and other publications.  You can read them here: [Data Knows All](http://www.dataknowsall.com)
 
 <!--
 **broepke/broepke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
